@@ -5,3 +5,4 @@ Git tracks changes.
 王炜 is sb
 Creating a new branch is quick.
 林志枫分子
+Creating a new branch is quick AND simple.
